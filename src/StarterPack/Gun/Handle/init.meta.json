@@ -1,0 +1,8 @@
+{
+    "className": "Part",
+    "properties": {
+        "CanCollide": false,
+        "CanTouch": false,
+        "Massless": true
+    }
+}
